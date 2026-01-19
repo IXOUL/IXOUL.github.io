@@ -114,7 +114,7 @@ export default function Home() {
                     <span className="h-3 w-3 rounded-full bg-rose-300" />
                     <span className="h-3 w-3 rounded-full bg-amber-300" />
                     <span className="h-3 w-3 rounded-full bg-emerald-300" />
-                    <span className="ml-2 text-xs font-semibold text-slate-800">
+                    <span className="ml-2 text-sm font-semibold text-slate-800">
                       {project.href.replace(/^https?:\/\//, "")}
                     </span>
                   </div>
