@@ -12,7 +12,7 @@ export default function Home() {
       href: "https://food-princeton.vercel.app/",
     },
     {
-      title: "Stock Distribution Manager",
+      title: "Stock Manager",
       role: "Data + Frontend",
       description:
         "Automated inventory redistribution with proactive replenishment alerts.",
@@ -111,7 +111,7 @@ export default function Home() {
                   </div>
                 </div>
                 <div className="flex flex-col items-center gap-2 px-4 py-5 text-center">
-                  <p className="text-lg font-semibold text-slate-900">
+                  <p className="text-2xl font-bold italic text-slate-900">
                     {project.title}
                   </p>
                   <p className="text-base text-slate-600">
