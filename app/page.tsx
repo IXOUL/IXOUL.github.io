@@ -238,7 +238,7 @@ export default function Home() {
             </a>
             <a
               className="hover:underline"
-              href="www.linkedin.com/in/lucille-wang-766657345"
+              href="https://www.linkedin.com/in/lucille-wang-766657345"
             >
               <span className="inline-flex items-center gap-2">
                 <svg
